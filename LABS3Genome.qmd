@@ -1,0 +1,22 @@
+---
+title: "Lab S3"
+author: "Olivia Kelly"
+format:
+  html:
+    toc: true
+    code-fold: true
+    embed-resources: true
+    theme: cosmos
+editor: visual
+execute:
+  echo: true
+freeze: auto
+---
+
+## About me
+
+## I am a senior in biology at Umass Amherst. 
+
+(![](https://media.4-paws.org/1/e/d/6/1ed6da75afe37d82757142dc7c6633a532f53a7d/VIER%20PFOTEN_2019-03-15_001-2886x1999-1920x1330.jpg))
+
+[Lab 7: COVID Data Animation](https://jeffreyblanchard.github.io/PathoGen2025/labs/lab7_covid.html){target="_blank"}
